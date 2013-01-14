@@ -1,0 +1,22 @@
+.navbar-inner {
+  padding-left: 20px !IMPORTANT;
+}
+
+.container {
+  padding-top: 80px;
+  padding-bottom: 30px;
+}
+.hero-unit{
+  background-repeat: no-repeat;
+  background-position: 40px 50%;
+  background-image:url(/images/background.png);
+  padding-left: 250px;
+}
+
+.images {
+  text-align: center;
+}
+
+.images h3 {
+  font-size: 18px;
+}
